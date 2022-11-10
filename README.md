@@ -2,7 +2,7 @@
 
 ### I'm an IT Auditor and a Data Science student.
 
-I want to have experience in Data. So, I'm very proud to share with you my projects that you can see here.
+I want to have experience in data. So, I'm very proud to share with you my projects that you can see here.
 
 If you would like to contact with me, you have below my social networks.
 
