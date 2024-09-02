@@ -2,7 +2,7 @@
 
 ### I'm Data Scientist
 
-I have data experience in differents areas. So, I'm very proud to share with you my projects that you can see here.
+I have experience developing many projects in different areas. I am very proud to share my projects with you, which you can see here.
 
 If you would like to contact with me, you have below my social networks.
 
