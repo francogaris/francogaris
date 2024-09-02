@@ -1,8 +1,8 @@
 ## 👋 Hi there, my name is Franco Garis
 
-### I'm an IT Auditor and a Data Science student.
+### I'm Data Scientist
 
-I want to have experience in data. So, I'm very proud to share with you my projects that you can see here.
+I have data experience in differents areas. So, I'm very proud to share with you my projects that you can see here.
 
 If you would like to contact with me, you have below my social networks.
 
